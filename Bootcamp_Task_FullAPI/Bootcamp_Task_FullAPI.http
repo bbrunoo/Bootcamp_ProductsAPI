@@ -1,0 +1,6 @@
+@Bootcamp_Task_FullAPI_HostAddress = http://localhost:5053
+
+GET {{Bootcamp_Task_FullAPI_HostAddress}}/product/
+Accept: application/json
+
+###
